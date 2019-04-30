@@ -6,7 +6,6 @@ public class NewClass {
 	System.out.println("heloo");
 	System.out.println("bye");
 	System.out.println("eclipse");
-	System.out.println("india");
 	}
 
 }
